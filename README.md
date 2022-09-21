@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ricardo Ramos
+- 👋 Hi, I’m Ricardo
 - 👀 I’m interested in learning anything and everything backend programing
 - 🌱 I’m currently learning Java, JavaScript, and Python
 - 💞️ I’m looking to collaborate on fun and challenging projects
